@@ -1,9 +1,10 @@
-# klimatic
+# Klimatic
 
 A new Flutter project.
-This app is an example of parsing JSON API 
-I have used OpenWeatherMap JSON API to get weather information
-This app is just a general waether app to get info like minimum and maximum temperature , humidity and current temperature
+This app is an example of parsing JSON API .
+I have used OpenWeatherMap JSON API to get weather information.
+This app is just a general weather app to get info like minimum and maximum temperature , humidity and current temperature.
+Here are the screenshots of the screens of how the app looks
 
 
 ## Getting Started
